@@ -1,0 +1,11 @@
+[package]
+name = "cat_and_mouse"
+version = "0.1.0"
+authors = ["Michael Bakker"]
+edition = "2018"
+description = "Snall app demonstrating the behavior library's functionality."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+behavior = { path = "../behavior" }

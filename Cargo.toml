@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"behavior",
+	"cat_and_mouse",
+]
